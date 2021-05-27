@@ -96,3 +96,4 @@ __pypackages__/
 
 .idea
 .env
+.dbdata
